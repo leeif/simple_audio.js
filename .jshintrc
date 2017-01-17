@@ -1,0 +1,5 @@
+{
+  "node" :true,
+  "jquery" : true,
+  "strict":false
+}

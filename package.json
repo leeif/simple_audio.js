@@ -1,0 +1,16 @@
+{
+  "name": "simpleaudio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "npm test",
+    "start": "gulp"
+  },
+  "author": "leeif <geeklyf92610@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "0.0.14"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SimpleAudio",
+  "authors": [
+    "leeif <geeklyf92610@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "dist/audio.min.js",
+    "dist/audio.js"
+  ],
+  "keywords": [
+    "Audio",
+    "Player"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
