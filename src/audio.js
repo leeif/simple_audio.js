@@ -60,7 +60,6 @@ SimplePlayer.prototype.removeSong = function(mid) {
 };
 
 SimplePlayer.prototype.load = function(song) {
-  console.log('load music');
   if (this.songList.length === 0) {
     return;
   }
